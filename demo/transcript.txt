@@ -1,0 +1,17 @@
+$ python demo/run.py input
+sample   case2.wav
+PCM      16 bit / 1 ch
+rate     8000 Hz
+length   0.500 s
+
+$ python demo/run.py run
+mode     acoustic repetition
+status   steady
+pitch    277.302 Hz
+frames   12/12
+
+$ python demo/run.py challenge
+360 Hz / 180 Hz x 2 : PCM equal
+status   source_not_identifiable
+candidates 360.3, 180.2 Hz
+PCM hash d7ad514cdddb5114

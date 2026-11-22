@@ -1,0 +1,443 @@
+{
+  "seed": 59281,
+  "summary": {
+    "n": 36,
+    "steady": 36,
+    "within_10_cents": 34,
+    "worst_accepted_error_cents": 1207.358830391737
+  },
+  "records": [
+    {
+      "trial": 1,
+      "target_hz": 276.5030500855439,
+      "amplitudes": [
+        0,
+        1,
+        0.8352618513518675,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.7882620662911164
+    },
+    {
+      "trial": 2,
+      "target_hz": 281.82384705837273,
+      "amplitudes": [
+        0.8,
+        1,
+        0.477215545478295,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.8471859597947571
+    },
+    {
+      "trial": 3,
+      "target_hz": 266.183337464866,
+      "amplitudes": [
+        0.8,
+        1,
+        0.22219163193412006,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.979425768168042
+    },
+    {
+      "trial": 4,
+      "target_hz": 291.65378336511026,
+      "amplitudes": [
+        0.15,
+        1,
+        0.3685660302913633,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.7104992219664129
+    },
+    {
+      "trial": 5,
+      "target_hz": 158.03093795178867,
+      "amplitudes": [
+        0.15,
+        1,
+        0.476529575462586,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.1250990377869224
+    },
+    {
+      "trial": 6,
+      "target_hz": 148.78740520480528,
+      "amplitudes": [
+        0.8,
+        1,
+        0.8319425481765943,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.1953578573686233
+    },
+    {
+      "trial": 7,
+      "target_hz": 416.43210927274737,
+      "amplitudes": [
+        0.15,
+        1,
+        0.6493552585719606,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.9363972552461837
+    },
+    {
+      "trial": 8,
+      "target_hz": 336.79900953555966,
+      "amplitudes": [
+        0.8,
+        1,
+        0.4040397697838791,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.6687755616383494
+    },
+    {
+      "trial": 9,
+      "target_hz": 213.90954876400423,
+      "amplitudes": [
+        0.8,
+        1,
+        0.7511235806345788,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.4311245135724905
+    },
+    {
+      "trial": 10,
+      "target_hz": 201.46310050654296,
+      "amplitudes": [
+        0,
+        1,
+        0.3017066420803902,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.26129265552229464
+    },
+    {
+      "trial": 11,
+      "target_hz": 365.35690642067595,
+      "amplitudes": [
+        0,
+        1,
+        0.35520775224531304,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.239089967107654
+    },
+    {
+      "trial": 12,
+      "target_hz": 301.7769164124671,
+      "amplitudes": [
+        0.8,
+        1,
+        0.6635564491306443,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.30846077474411143
+    },
+    {
+      "trial": 13,
+      "target_hz": 350.4495090723907,
+      "amplitudes": [
+        0.8,
+        1,
+        0.30629561461132626,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.0106170141962996
+    },
+    {
+      "trial": 14,
+      "target_hz": 195.8912635273234,
+      "amplitudes": [
+        0.8,
+        1,
+        0.21517932046176627,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.397006369096531
+    },
+    {
+      "trial": 15,
+      "target_hz": 401.52073078727943,
+      "amplitudes": [
+        0.15,
+        1,
+        0.7527806403999371,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.4111053203951325
+    },
+    {
+      "trial": 16,
+      "target_hz": 419.5970085915115,
+      "amplitudes": [
+        0.8,
+        1,
+        0.697078924467809,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.5020340990512886
+    },
+    {
+      "trial": 17,
+      "target_hz": 395.17986731847645,
+      "amplitudes": [
+        0,
+        1,
+        0.35166521598914785,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.4446115078874833
+    },
+    {
+      "trial": 18,
+      "target_hz": 162.33297145400223,
+      "amplitudes": [
+        0.15,
+        1,
+        0.38437803499326173,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.3337442942010644
+    },
+    {
+      "trial": 19,
+      "target_hz": 234.19987614229706,
+      "amplitudes": [
+        0.15,
+        1,
+        0.5652907472797961,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.7905757056711863
+    },
+    {
+      "trial": 20,
+      "target_hz": 439.12455622879514,
+      "amplitudes": [
+        0,
+        1,
+        0.5875530864191008,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 3.2586404131767104
+    },
+    {
+      "trial": 21,
+      "target_hz": 171.47588245793295,
+      "amplitudes": [
+        0.8,
+        1,
+        0.21726819658006996,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.20924495667630028
+    },
+    {
+      "trial": 22,
+      "target_hz": 181.8247445648044,
+      "amplitudes": [
+        0.15,
+        1,
+        0.5079245940563207,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.4213735483896684
+    },
+    {
+      "trial": 23,
+      "target_hz": 173.89789627682015,
+      "amplitudes": [
+        0.15,
+        1,
+        0.8424936001826737,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.4163194949093711
+    },
+    {
+      "trial": 24,
+      "target_hz": 385.3401728135382,
+      "amplitudes": [
+        0.15,
+        1,
+        0.6895614215384872,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.47825372807235333
+    },
+    {
+      "trial": 25,
+      "target_hz": 286.6519780302067,
+      "amplitudes": [
+        0,
+        1,
+        0.31783144501206334,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.8230885589006404
+    },
+    {
+      "trial": 26,
+      "target_hz": 444.4772699763736,
+      "amplitudes": [
+        0,
+        1,
+        0.5943111507612349,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.2668390175774364
+    },
+    {
+      "trial": 27,
+      "target_hz": 297.69662318576883,
+      "amplitudes": [
+        0.15,
+        1,
+        0.8696992662798784,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.8109690098890595
+    },
+    {
+      "trial": 28,
+      "target_hz": 240.28603448574793,
+      "amplitudes": [
+        0.8,
+        1,
+        0.5285085504241203,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.7992556357443357
+    },
+    {
+      "trial": 29,
+      "target_hz": 234.69256674218946,
+      "amplitudes": [
+        0,
+        1,
+        0.20536940807999898,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1205.865132197747
+    },
+    {
+      "trial": 30,
+      "target_hz": 164.75883424691781,
+      "amplitudes": [
+        0.15,
+        1,
+        0.23882364864161298,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1207.358830391737
+    },
+    {
+      "trial": 31,
+      "target_hz": 329.5143354388427,
+      "amplitudes": [
+        0,
+        1,
+        0.6902181458982757,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.6708390556280521
+    },
+    {
+      "trial": 32,
+      "target_hz": 444.65944083659025,
+      "amplitudes": [
+        0,
+        1,
+        0.8998097399695415,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.127355528329904
+    },
+    {
+      "trial": 33,
+      "target_hz": 317.33951582556807,
+      "amplitudes": [
+        0.15,
+        1,
+        0.4150289678431052,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.543047946123254
+    },
+    {
+      "trial": 34,
+      "target_hz": 422.0077890679175,
+      "amplitudes": [
+        0,
+        1,
+        0.4117068280685446,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 1.8428519914105599
+    },
+    {
+      "trial": 35,
+      "target_hz": 269.5261533112694,
+      "amplitudes": [
+        0,
+        1,
+        0.37465068597493323,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 0.3763736704404831
+    },
+    {
+      "trial": 36,
+      "target_hz": 395.98634136264843,
+      "amplitudes": [
+        0.8,
+        1,
+        0.7072187775852317,
+        0.15
+      ],
+      "status": "steady",
+      "error_cents": 2.568175732247158
+    }
+  ]
+}
